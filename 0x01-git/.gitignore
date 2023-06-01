@@ -1,0 +1,7 @@
+~/.gitignore
+
+*.js
+*.c
+/alx
+/school
+
